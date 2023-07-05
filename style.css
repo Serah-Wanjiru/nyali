@@ -1,0 +1,87 @@
+.body{
+    background-image: url(/images/house.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;  
+}
+
+.a2{
+    width: 50%;
+}
+.a3{
+    width: 50%;
+}
+.a1 ul li{
+    list-style: none;
+    padding: 3px;
+    display: inline;
+    margin: 1rem;
+
+
+}
+.a1{
+    display: flex;
+    border: 100%;
+
+
+}
+.a4{
+    text-align: center;
+}
+.a5{
+    font-size: 400%;
+}
+.a6{
+    padding: 20px;
+    border-radius: 50px
+    
+}
+.a11{
+    font-size: 300%;
+
+}
+.a9{
+    width: 40%;
+    height: 30%;
+
+}
+.a10{
+    width: 30%;
+    height: 30%;
+}
+.a12{
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+.b1{
+    width: 20%;
+    height: 10%;
+
+}
+.b2{
+    width: 20%;
+    height: 10%;
+
+}
+.b3{
+    width: 20%;
+    height: 10%;
+
+}
+.b4{
+    width: 20%;
+    height: 10%;
+
+}
+.room{
+    text-align: center;
+}
+.has{
+    display: flex;
+}
+.secondrooms{
+    display: flex;
+
+}
